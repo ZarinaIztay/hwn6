@@ -1,0 +1,40 @@
+
+
+.navbar-brand{
+    color: rgb(241, 241, 241) !important;
+}
+
+.line{
+    background-color:  rgb(230, 230, 230);
+    height: 1px;
+    width: 100%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.btn-primary{
+    background-color: #7E85CB;
+}
+
+.title{
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+.call-action-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 42%;
+    font-size: x-large;
+    height: fit-content;
+}
+.footer-copyright{
+    margin: 4% 0;
+}
+.promocard-title{
+    font-weight: bold;
+    font-size: large;
+}
+.action-card{
+    background-color: #F7F7F7;
+}
